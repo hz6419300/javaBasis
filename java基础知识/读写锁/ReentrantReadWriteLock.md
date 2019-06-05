@@ -1,5 +1,5 @@
 读写锁demo
-...
+```
 class MyCach{
 	
 	private volatile Map<String, Object> h=new HashMap<>();
@@ -81,5 +81,5 @@ public class ReadWriteLockDemo {
 }
 
 
-...
+```
 
